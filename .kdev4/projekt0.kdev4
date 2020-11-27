@@ -1,0 +1,40 @@
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/kamil/projects/projekt0/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=projekt0
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00\x10\x00p\x00r\x00o\x00j\x00e\x00k\x00t\x000\x00\x00\x00\x10\x00p\x00r\x00o\x00j\x00e\x00k\x00t\x000)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/kamil/projects/projekt0
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=projekt0,projekt0
+Use External Terminal=false
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=kdevgit
+
+[SourceFileTemplates]
+LastUsedTemplate=/home/kamil/.local/share/kdevfiletemplates/template_descriptions/cpp_basic.desktop
