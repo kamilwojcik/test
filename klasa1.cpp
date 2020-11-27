@@ -5,7 +5,7 @@ using namespace std;
 
 klasa1::klasa1()
 {
-    a=0;
+    a=100;
 }
 
 void klasa1::Print()
