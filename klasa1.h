@@ -3,7 +3,7 @@
 
 class klasa1
 {
-    
+    static int licznik;
 public:
     int a;
     
