@@ -1,6 +1,9 @@
 #include <iostream>
 #include "klasa1.h"
 
+
+//a tu kamil-alt dodaje komentarz
+
 using namespace std;
 
 int main(int argc, char **argv)
