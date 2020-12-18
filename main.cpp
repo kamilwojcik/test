@@ -13,5 +13,6 @@ int main(int argc, char **argv)
     klasa1 inst2;
     inst2.Print();
     
+    cout<<"jakaś zmiana"<<endl;
     return 0;
 }
